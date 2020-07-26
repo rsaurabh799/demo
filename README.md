@@ -1,1 +1,1 @@
-# demo
+# JavaScript Demo
